@@ -282,7 +282,7 @@
       {
         "ingredient": "Metoclopramide inj. (10mg/2ml)",
         "qty_num": 1.0,
-        "qty_unit_th": "amp",
+        "qty_unit_th": "แอมพูล",
         "qty_text": "1 amp"
       }
     ],
@@ -400,9 +400,9 @@
     "components": [
       {
         "ingredient": "Ursolin 250 mg",
-        "qty_num": 4.0,
+        "qty_num": 3.0,
         "qty_unit_th": "เม็ด",
-        "qty_text": "4 tab."
+        "qty_text": "3 tab."
       }
     ],
     "supports_rtm": false,
@@ -417,9 +417,9 @@
     "components": [
       {
         "ingredient": "Sidegra 50 mg",
-        "qty_num": 3.0,
+        "qty_num": 1.0,
         "qty_unit_th": "เม็ด",
-        "qty_text": "3 tab."
+        "qty_text": "1 tab."
       }
     ],
     "supports_rtm": false,
@@ -452,8 +452,8 @@
       {
         "ingredient": "Amikacin inj (500mg/2ml)",
         "qty_num": 1.0,
-        "qty_unit_th": "amp",
-        "qty_text": "1 amp"
+        "qty_unit_th": "แอมพูล",
+        "qty_text": "1 amp."
       },
       {
         "ingredient": "SWI",
@@ -475,8 +475,8 @@
       {
         "ingredient": "Cefazolin inj (1 g)",
         "qty_num": 1.0,
-        "qty_unit_th": "amp",
-        "qty_text": "1 amp"
+        "qty_unit_th": "แอมพูล",
+        "qty_text": "1 amp."
       },
       {
         "ingredient": "SWI",
@@ -498,8 +498,8 @@
       {
         "ingredient": "Cefazolin inj (1 g)",
         "qty_num": 0.5,
-        "qty_unit_th": "amp",
-        "qty_text": "0.5 amp"
+        "qty_unit_th": "แอมพูล",
+        "qty_text": "0.5 amp."
       },
       {
         "ingredient": "SWI",
@@ -521,8 +521,8 @@
       {
         "ingredient": "Dexamethasone 4 mg",
         "qty_num": 1.0,
-        "qty_unit_th": "amp",
-        "qty_text": "1 amp"
+        "qty_unit_th": "แอมพูล",
+        "qty_text": "1 amp."
       }
     ],
     "supports_rtm": false,
@@ -536,10 +536,10 @@
     "category": "Eye drop",
     "components": [
       {
-        "ingredient": "Ceftazidime (1GM)",
+        "ingredient": "Ceftazidime (1 g)",
         "qty_num": 1.0,
-        "qty_unit_th": "กรัม",
-        "qty_text": "1 gm"
+        "qty_unit_th": "แอมพูล",
+        "qty_text": "1 amp."
       }
     ],
     "supports_rtm": false,
@@ -555,8 +555,8 @@
       {
         "ingredient": "Amphotericin inj (50mg)",
         "qty_num": 1.0,
-        "qty_unit_th": "amp",
-        "qty_text": "1 amp"
+        "qty_unit_th": "แอมพูล",
+        "qty_text": "1 amp."
       }
     ],
     "supports_rtm": false,
@@ -571,9 +571,9 @@
     "components": [
       {
         "ingredient": "Fluimucil inj (300mg)",
-        "qty_num": 1.0,
-        "qty_unit_th": "amp",
-        "qty_text": "1 amp"
+        "qty_num": 3.0,
+        "qty_unit_th": "แอมพูล",
+        "qty_text": "3 amp."
       }
     ],
     "supports_rtm": false,
@@ -588,9 +588,9 @@
     "components": [
       {
         "ingredient": "Gentamicin (80mg/2ml)",
-        "qty_num": 1.0,
-        "qty_unit_th": "amp",
-        "qty_text": "1 amp"
+        "qty_num": 2.0,
+        "qty_unit_th": "แอมพูล",
+        "qty_text": "2 amp."
       }
     ],
     "supports_rtm": false,
@@ -604,10 +604,16 @@
     "category": "Eye drop",
     "components": [
       {
-        "ingredient": "Solu-medrol 40mg + 0.45%NSS",
+        "ingredient": "Solu-medrol (1 g)",
         "qty_num": 1.0,
-        "qty_unit_th": "vial",
-        "qty_text": "1 vial"
+        "qty_unit_th": "ไวอัล",
+        "qty_text": "1 vial."
+      },
+      {
+        "ingredient": "0.45%NSS",
+        "qty_num": 1.0,
+        "qty_unit_th": "ถุง",
+        "qty_text": "1 bag."
       }
     ],
     "supports_rtm": false,
@@ -624,13 +630,13 @@
         "ingredient": "Mydriacyl",
         "qty_num": 1.0,
         "qty_unit_th": "ขวด",
-        "qty_text": "1 ขวด"
+        "qty_text": "1 bot."
       },
       {
         "ingredient": "Genteal",
         "qty_num": 1.0,
         "qty_unit_th": "ขวด",
-        "qty_text": "1 ขวด"
+        "qty_text": "1 bot."
       }
     ],
     "supports_rtm": false,
@@ -647,13 +653,13 @@
         "ingredient": "Phenylephrine eye drop",
         "qty_num": 1.0,
         "qty_unit_th": "ขวด",
-        "qty_text": "1 ขวด"
+        "qty_text": "1 bot."
       },
       {
         "ingredient": "Genteal eye drop",
         "qty_num": 1.0,
         "qty_unit_th": "ขวด",
-        "qty_text": "1 ขวด"
+        "qty_text": "1 bot."
       }
     ],
     "supports_rtm": false,
@@ -669,8 +675,8 @@
       {
         "ingredient": "Vancomycin (500mg)",
         "qty_num": 1.0,
-        "qty_unit_th": "เม็ด",
-        "qty_text": "1 tab"
+        "qty_unit_th": "ไวอัล",
+        "qty_text": "1 vial."
       }
     ],
     "supports_rtm": false,
@@ -687,7 +693,7 @@
         "ingredient": "Favipiravir 200 mg",
         "qty_num": 15.0,
         "qty_unit_th": "เม็ด",
-        "qty_text": "15 tab"
+        "qty_text": "15 tab."
       }
     ],
     "supports_rtm": false,
@@ -704,7 +710,7 @@
         "ingredient": "Premarin Cream 0.625 mg",
         "qty_num": 10.0,
         "qty_unit_th": "เม็ด",
-        "qty_text": "10 tab"
+        "qty_text": "10 tab."
       }
     ],
     "supports_rtm": false,
