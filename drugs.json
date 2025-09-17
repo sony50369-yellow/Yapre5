@@ -1,0 +1,713 @@
+[
+  {
+    "name": "Acetazolamide syr.",
+    "strength": "10 mg/ml",
+    "bottle_ml": 25,
+    "expiry_days": 7,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Acetazolamide 250 mg",
+        "qty_num": 1.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "1 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Aldactone syr.",
+    "strength": "10 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 21,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Spironolactone 100 mg",
+        "qty_num": 3.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "3 tab."
+      }
+    ],
+    "supports_rtm": true,
+    "rtm_shelf_days": 60
+  },
+  {
+    "name": "Allopurinol syr.",
+    "strength": "10 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 14,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Allopurinol 100 mg",
+        "qty_num": 3.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "3 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Aminophylline sol.",
+    "strength": "10 mg/ml",
+    "bottle_ml": 25,
+    "expiry_days": 14,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Aminophylline 250 mg",
+        "qty_num": 1.0,
+        "qty_unit_th": "amp",
+        "qty_text": "1 amp"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Amlodipine",
+    "strength": "1 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 30,
+    "category": "Other",
+    "components": [
+      {
+        "ingredient": "Amlodipine 10 mg",
+        "qty_num": 3.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "3 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Beraprost syr.",
+    "strength": "2 mcg/ml",
+    "bottle_ml": 25,
+    "expiry_days": 7,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Dorner 20 mcg",
+        "qty_num": 1.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "1 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Captopril susp.",
+    "strength": "0.03 mg/ml",
+    "bottle_ml": 25,
+    "expiry_days": 21,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Captopril 25 mg",
+        "qty_num": 1.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "1 เม็ด"
+      },
+      {
+        "ingredient": "Vit C",
+        "qty_num": 2.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "2 เม็ด"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Captopril susp.",
+    "strength": "1 mg/ml",
+    "bottle_ml": 25,
+    "expiry_days": 21,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Captopril 25 mg",
+        "qty_num": 2.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "2 เม็ด"
+      },
+      {
+        "ingredient": "Vit C",
+        "qty_num": 3.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "3 เม็ด"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Dexamethasone syr.",
+    "strength": "0.1 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 7,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Dexamethasone 4 mg",
+        "qty_num": 1.0,
+        "qty_unit_th": "amp",
+        "qty_text": "1 amp"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Diazepam susp.",
+    "strength": "1 mg/ml",
+    "bottle_ml": 15,
+    "expiry_days": 14,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Diazepam 5 mg",
+        "qty_num": 3.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "3 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Furosemide syr.",
+    "strength": "10 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 21,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Furosemide 40 mg",
+        "qty_num": 1.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "1 tab."
+      }
+    ],
+    "supports_rtm": true,
+    "rtm_shelf_days": 60
+  },
+  {
+    "name": "HCTZ syr.",
+    "strength": "10 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 21,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "HCTZ 25 mg",
+        "qty_num": 12.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "12 tab."
+      }
+    ],
+    "supports_rtm": true,
+    "rtm_shelf_days": 60
+  },
+  {
+    "name": "Hydralazine syr.",
+    "strength": "1 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 7,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Hydralazine 25 mg",
+        "qty_num": 2.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "2 เม็ด"
+      },
+      {
+        "ingredient": "20% Mannitol inj",
+        "qty_num": 1.0,
+        "qty_unit_th": "amp",
+        "qty_text": "1 amp / 500 ml"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "INH susp.",
+    "strength": "10 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 21,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "INH 100 mg",
+        "qty_num": 3.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "3 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "L-Thyroxin susp.",
+    "strength": "25 mcg/ml",
+    "bottle_ml": 12,
+    "expiry_days": 21,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "L-Thyroxin 100 mcg",
+        "qty_num": 3.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "3 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Metoclopramide syr.",
+    "strength": "0.1 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 21,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Metoclopramide inj. (10mg/2ml)",
+        "qty_num": 1.0,
+        "qty_unit_th": "amp",
+        "qty_text": "1 amp"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Phenobarbital susp.",
+    "strength": "10 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 14,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Phenobarbital gr.1",
+        "qty_num": 5.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "5 tab."
+      }
+    ],
+    "supports_rtm": true,
+    "rtm_shelf_days": 60
+  },
+  {
+    "name": "Phenytoin susp.",
+    "strength": "10 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 7,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Dilantin 50 mg",
+        "qty_num": 6.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "6 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Propanolol syr.",
+    "strength": "1 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 30,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Propanolol 10 mg",
+        "qty_num": 3.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "3 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Ranitidine susp.",
+    "strength": "10 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 7,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Ranitidine 150 mg",
+        "qty_num": 2.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "2 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Rifampicin susp.",
+    "strength": "20 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 21,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Rifampicin 300 mg",
+        "qty_num": 2.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "2 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Tamiflu syr.",
+    "strength": "10 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 10,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Tamiflu 75 mg",
+        "qty_num": 4.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "4 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Ursolin susp.",
+    "strength": "25 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 7,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Ursolin 250 mg",
+        "qty_num": 4.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "4 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Viagra syr.",
+    "strength": "2 mg/ml",
+    "bottle_ml": 25,
+    "expiry_days": 21,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Sidegra 50 mg",
+        "qty_num": 3.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "3 tab."
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Zinc susp.",
+    "strength": "10 mg/ml",
+    "bottle_ml": 10,
+    "expiry_days": 7,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Zinc 25 mg",
+        "qty_num": 4.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "4 tab."
+      }
+    ],
+    "supports_rtm": true,
+    "rtm_shelf_days": 60
+  },
+  {
+    "name": "Amikin eye drop",
+    "strength": "50 mg/ml",
+    "bottle_ml": 10,
+    "expiry_days": 7,
+    "category": "Eye drop",
+    "components": [
+      {
+        "ingredient": "Amikacin inj (500mg/2ml)",
+        "qty_num": 1.0,
+        "qty_unit_th": "amp",
+        "qty_text": "1 amp"
+      },
+      {
+        "ingredient": "SWI",
+        "qty_num": 10.0,
+        "qty_unit_th": "ml",
+        "qty_text": "10 ml"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Cefazolin eye drop",
+    "strength": "33 mg/ml",
+    "bottle_ml": 10,
+    "expiry_days": 7,
+    "category": "Eye drop",
+    "components": [
+      {
+        "ingredient": "Cefazolin inj (1 g)",
+        "qty_num": 1.0,
+        "qty_unit_th": "amp",
+        "qty_text": "1 amp"
+      },
+      {
+        "ingredient": "SWI",
+        "qty_num": 10.0,
+        "qty_unit_th": "ml",
+        "qty_text": "10 ml"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Cefazolin eye drop",
+    "strength": "50 mg/ml",
+    "bottle_ml": 10,
+    "expiry_days": 7,
+    "category": "Eye drop",
+    "components": [
+      {
+        "ingredient": "Cefazolin inj (1 g)",
+        "qty_num": 0.5,
+        "qty_unit_th": "amp",
+        "qty_text": "0.5 amp"
+      },
+      {
+        "ingredient": "SWI",
+        "qty_num": 10.0,
+        "qty_unit_th": "ml",
+        "qty_text": "10 ml"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Dexamethasone eye drop",
+    "strength": "0.01%",
+    "bottle_ml": 10,
+    "expiry_days": 7,
+    "category": "Eye drop",
+    "components": [
+      {
+        "ingredient": "Dexamethasone 4 mg",
+        "qty_num": 1.0,
+        "qty_unit_th": "amp",
+        "qty_text": "1 amp"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Fortum eye drop",
+    "strength": "50 mg/ml",
+    "bottle_ml": 10,
+    "expiry_days": 7,
+    "category": "Eye drop",
+    "components": [
+      {
+        "ingredient": "Ceftazidime (1GM)",
+        "qty_num": 1.0,
+        "qty_unit_th": "กรัม",
+        "qty_text": "1 gm"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Fungizone eye drop",
+    "strength": "3 mg/ml",
+    "bottle_ml": 10,
+    "expiry_days": 7,
+    "category": "Eye drop",
+    "components": [
+      {
+        "ingredient": "Amphotericin inj (50mg)",
+        "qty_num": 1.0,
+        "qty_unit_th": "amp",
+        "qty_text": "1 amp"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Fluimucil eye drop",
+    "strength": "10%",
+    "bottle_ml": 10,
+    "expiry_days": 7,
+    "category": "Eye drop",
+    "components": [
+      {
+        "ingredient": "Fluimucil inj (300mg)",
+        "qty_num": 1.0,
+        "qty_unit_th": "amp",
+        "qty_text": "1 amp"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Gentamicin eye drop",
+    "strength": "14 mg/ml",
+    "bottle_ml": 10,
+    "expiry_days": 7,
+    "category": "Eye drop",
+    "components": [
+      {
+        "ingredient": "Gentamicin (80mg/2ml)",
+        "qty_num": 1.0,
+        "qty_unit_th": "amp",
+        "qty_text": "1 amp"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Methyl Prednisolone eye drop",
+    "strength": "1%",
+    "bottle_ml": 10,
+    "expiry_days": 7,
+    "category": "Eye drop",
+    "components": [
+      {
+        "ingredient": "Solu-medrol 40mg + 0.45%NSS",
+        "qty_num": 1.0,
+        "qty_unit_th": "vial",
+        "qty_text": "1 vial"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Mydriacyl eye drop",
+    "strength": "0.05%",
+    "bottle_ml": 10,
+    "expiry_days": 7,
+    "category": "Eye drop",
+    "components": [
+      {
+        "ingredient": "Mydriacyl",
+        "qty_num": 1.0,
+        "qty_unit_th": "ขวด",
+        "qty_text": "1 ขวด"
+      },
+      {
+        "ingredient": "Genteal",
+        "qty_num": 1.0,
+        "qty_unit_th": "ขวด",
+        "qty_text": "1 ขวด"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Phenylephrine eye drop",
+    "strength": "2.5%",
+    "bottle_ml": 10,
+    "expiry_days": 7,
+    "category": "Eye drop",
+    "components": [
+      {
+        "ingredient": "Phenylephrine eye drop",
+        "qty_num": 1.0,
+        "qty_unit_th": "ขวด",
+        "qty_text": "1 ขวด"
+      },
+      {
+        "ingredient": "Genteal eye drop",
+        "qty_num": 1.0,
+        "qty_unit_th": "ขวด",
+        "qty_text": "1 ขวด"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Vancomycin eye drop",
+    "strength": "50 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 14,
+    "category": "Eye drop",
+    "components": [
+      {
+        "ingredient": "Vancomycin (500mg)",
+        "qty_num": 1.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "1 tab"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Favipiravir syr.",
+    "strength": "100 mg/ml",
+    "bottle_ml": 30,
+    "expiry_days": 14,
+    "category": "Syrup/Solution/Suspension",
+    "components": [
+      {
+        "ingredient": "Favipiravir 200 mg",
+        "qty_num": 15.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "15 tab"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  },
+  {
+    "name": "Premarin Cream",
+    "strength": "0.625 mg/1gm",
+    "bottle_ml": 10,
+    "expiry_days": 30,
+    "category": "Topical/Cream",
+    "components": [
+      {
+        "ingredient": "Premarin Cream 0.625 mg",
+        "qty_num": 10.0,
+        "qty_unit_th": "เม็ด",
+        "qty_text": "10 tab"
+      }
+    ],
+    "supports_rtm": false,
+    "rtm_shelf_days": 0
+  }
+]

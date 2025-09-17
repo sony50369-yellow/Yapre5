@@ -1,0 +1,46 @@
+
+:root{
+  --bg:#FAF8F2; --card:#fff; --text:#2c2c2c; --muted:#667; --accent:#6cb4a4;
+  --chip-blue:#e6f3ff; --chip-blue-border:#c8e6ff;
+  --chip-orange:#ffe9d9; --chip-orange-border:#ffd3b8;
+  --chip-green:#e7f7e9; --chip-green-border:#c7ebcd;
+  --rtm-bg:#fff3e8; --rtm-bd:#ffd9b8;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.45 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+.appbar{position:sticky;top:0;background:#fff;border-bottom:1px solid #eee;padding:10px 14px;z-index:10}
+.brand{display:flex;align-items:center;gap:10px;font-weight:700}
+.logo{border-radius:6px}
+.container{max-width:1100px;margin:18px auto;padding:0 12px}
+.card{background:var(--card);border:1px solid #eee;border-radius:14px;padding:14px 16px;margin:12px 0}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:10px;margin:10px 0}
+.grid-compact{grid-template-columns:repeat(auto-fit,minmax(170px,1fr))}
+label{display:flex;flex-direction:column;font-size:.92rem;gap:6px}
+input,select,button{padding:10px;border:1px solid #ddd;border-radius:10px;font-size:1rem}
+button{cursor:pointer}
+button.accent{background:var(--accent);color:#fff;border-color:transparent}
+.table-wrap{width:100%;overflow-x:auto}
+table{width:100%;min-width:620px;border-collapse:separate;border-spacing:0}
+th,td{padding:10px;border-bottom:1px solid #f0f0f0;vertical-align:top;word-break:break-word}
+th{background:#fafafa;font-weight:700;position:sticky;top:0}
+.badge{display:inline-block;padding:2px 8px;border-radius:999px;background:#eef7f5;border:1px solid #cdece6;font-size:.85rem}
+.schedule-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.chip{border:1px solid #e9e9e9;border-radius:999px;padding:6px 10px;background:#fafafa;font-size:.9rem;white-space:nowrap}
+.chip.blue{background:var(--chip-blue);border-color:var(--chip-blue-border)}
+.chip.orange{background:var(--chip-orange);border-color:var(--chip-orange-border)}
+.chip.green{background:var(--chip-green);border-color:var(--chip-green-border)}
+/* RTM highlight */
+.rtm-card{border:2px dashed var(--rtm-bd);background:var(--rtm-bg);padding:10px;border-radius:12px;display:flex;flex-direction:column;gap:6px}
+.rtm-check{display:flex;align-items:center;gap:8px;font-weight:600;color:#9b5b2a}
+@media (max-width: 520px){
+  body{font-size:15px}
+  .grid{grid-template-columns:1fr 1fr}
+  table{min-width:600px}
+}
+/* Print only summary card */
+@media print{
+  body *{ visibility: hidden !important; }
+  #summaryCard, #summaryCard *{ visibility: visible !important; }
+  #summaryCard{ position: absolute; left: 0; top: 0; width: 100%; border: none; }
+}
